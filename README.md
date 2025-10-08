@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there👋, I'm Harini Reddy Kotha Kapu, a passionate programmer dedicated to building innovative and practical projects.  
+I enjoy working with Python, JavaScript, and web technologies to create applications that solve real-world problems.  
+Currently, I am exploring web development, machine learning, and software development to expand my technical expertise.  
+I am committed to continuous learning and improvement, aiming to develop solutions that combine creativity, efficiency, and functionality.  
+My goal is to contribute to impactful projects, collaborate with others in the tech community, and apply my skills to meaningful challenges.  
+
+Email: harinireddykothakapu@gmail.com  
+GitHub: https://github.com/HariniReddy-KothaKapu
+LinkedIn: https://www.linkedin.com/in/harinireddykothakapu
+
 
 <!--
 **HariniReddy-KothaKapu/HariniReddy-KothaKapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
