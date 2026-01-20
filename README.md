@@ -5,8 +5,11 @@ I am committed to continuous learning and improvement, aiming to develop solutio
 My goal is to contribute to impactful projects, collaborate with others in the tech community, and apply my skills to meaningful challenges.   
 
 ✉️ Email: harinireddykothakapu@gmail.com  
+
 💻 GitHub: https://github.com/HariniReddy-KothaKapu  
+
 🔗 LinkedIn: https://www.linkedin.com/in/harinireddykothakapu
+
 🌐 Portfolio: https://v0-portfolio-website-green-theta.vercel.app/ 
 
 
