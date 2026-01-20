@@ -7,6 +7,7 @@ My goal is to contribute to impactful projects, collaborate with others in the t
 ✉️ Email: harinireddykothakapu@gmail.com  
 💻 GitHub: https://github.com/HariniReddy-KothaKapu  
 🔗 LinkedIn: https://www.linkedin.com/in/harinireddykothakapu
+🌐 Portfolio: https://v0-portfolio-website-green-theta.vercel.app/ 
 
 
 <!--
